@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+ul{
+    position:absolute;
+    display: block;
+    color: rgb(250, 128, 114);    
+    right: 960px;
+    width: 280px;
+    bottom: 200px;
+  }
+.err{
+    color: red;
+    font-size: 2rem;
+    font-weight: bold;
+    text-decoration: underline;
+    position: relative;
+    left: 60px;
+}
+li{
+    margin-top: 10px;
+}
